@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright 2008-2013 Andre Pfeiler
+  ~
+  ~ This file is part of FindBugs-IDEA.
+  ~
+  ~ FindBugs-IDEA is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ FindBugs-IDEA is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with FindBugs-IDEA.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<FindBugsFilter>
+    <Match>
+        <Bug category="BAD_PRACTICE" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="CORRECTNESS" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="I18N" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="MALICIOUS_CODE" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="MT_CORRECTNESS" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="PERFORMANCE" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="SECURITY" />
+        <Priority value="1" />
+    </Match>
+    <Match>
+        <Bug category="STYLE" />
+        <Priority value="1" />
+    </Match>
+</FindBugsFilter>
