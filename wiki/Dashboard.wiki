@@ -3,9 +3,22 @@
 
 = Project Information =
 
+<table>
+<td>
+
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml&up_projectName=findbugs-idea" width="300" height="230" border="0" />
 
+</td>
+<td>
+
 <wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_factoids_stats.xml" width="400" height="280" border="1"/>
+
+</td>
+</table>
+
+
+
+
 
 <wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_languages.xml" height="270" width="400" border="1"/>
 
