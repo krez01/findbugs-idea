@@ -3,13 +3,13 @@
 
 = Project Information =
 
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml&up_projectName=findbugs-idea" height="200" border="0" />
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml&up_projectName=findbugs-idea" height="300" border="0" />
 
-<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_factoids_stats.xml" height="270" border="1"/>
+<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_factoids_stats.xml" height="600" border="1"/>
 
-<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_languages.xml" height="230" border="1"/>
+<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_languages.xml" height="300" border="1"/>
 
-<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_cocomo.xml" height="225" border="0"/>
+<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_cocomo.xml" height="300" border="0"/>
 
 = Downloads =
 
