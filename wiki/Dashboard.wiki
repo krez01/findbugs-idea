@@ -18,17 +18,24 @@
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml&up_projectName=findbugs-idea" height="200" border="0" />
 
 
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/findbugs-idea/downloads/basic"  width="500" height="340" border="0"/>
+
+
 = Issues updated =
 
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml&up_projectName=findbugs-idea" height="200" border="0" />
 
-
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="https://code.google.com/feeds/p/findbugs-idea/issueupdates/basic"  width="500" height="340" border="0"/>
 
 = Issues =
 
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issuetracker/gcIssueTracker.xml&up_projectName=findbugs-idea" height="200" border="0" />
 
+
 = Source Changes =
 
 
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/changes/gcChanges.xml&up_projectName=findbugs-idea" height="200" border="0" />
+
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/findbugs-idea/svnchanges/basic"  width="500" height="340" border="0"/>
