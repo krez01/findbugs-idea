@@ -26,8 +26,7 @@
 </td>
 
 <td>
-
-<wiki:gadget url="http://www.ohloh.net/p/gwt/widgets/project_partner_badge.xml" height="55" border="0" />
+<wiki:gadget url="http://www.ohloh.net/p/323266/widgets/project_thin_badge.xml" height="52" border="0"/>
 
 </td>
 </table>
@@ -116,6 +115,4 @@
 </td>
 
 </table>
-
-
 
