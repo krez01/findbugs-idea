@@ -6,7 +6,7 @@
 <table>
 <td>
 
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml&up_projectName=findbugs-idea" width="300" height="230" border="0" />
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml" up_projectName="findbugs-idea" width="300" height="230" border="0" />
 
 </td>
 <td>
@@ -34,85 +34,25 @@
 
 
 
-= Downloads =
+= Details =
 
-<table>
-<td>
+== Changes ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/changes/gcChanges.xml" up_projectName="findbugs-idea" border="1"/>
 
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml&up_projectName=findbugs-idea" height="200" border="0" />
+== Code Search ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/codesearch/gcSearch.xml" up_projectName="findbugs-idea" border="0" width="400"/>
 
-</td>
+== Downloads ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml" up_projectName="findbugs-idea" border="0"/>
 
-<td>
+== Project Info ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml" up_projectName="findbugs-idea" border="0"/>
 
+== Issue Tracker ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issuetracker/gcIssueTracker.xml" up_projectName="findbugs-idea" border="0"/>
 
+== Issue Updates ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml" up_projectName="findbugs-idea" border="0"/>
 
-</td>
-<td>
-
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/findbugs-idea/downloads/basic"  width="500" height="340" border="0"/>
-
-</td>
-
-</table>
-
-
-= Issues updated =
-
-<table>
-<td>
-
-
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml&up_projectName=findbugs-idea" height="200" border="0" />
-
-</td>
-
-<td>
-
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="https://code.google.com/feeds/p/findbugs-idea/issueupdates/basic"  width="500" height="340" border="0"/>
-
-</td>
-</table>
-
-
-
-= Issues =
-
-
-<table>
-<td>
-
-
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issuetracker/gcIssueTracker.xml&up_projectName=findbugs-idea" height="200" border="0" />
-
-</td>
-
-
-<td>
-
-
-
-</td>
-
-</table>
-
-
-
-= Source Changes =
-
-<table>
-<td>
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/changes/gcChanges.xml&up_projectName=findbugs-idea" height="200" border="0" />
-
-</td>
-
-
-<td>
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/findbugs-idea/svnchanges/basic"  width="500" height="340" border="0"/>
-
-</td>
-
-</table>
+== Wiki ==
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/wiki/gcWiki.xml" up_projectName="findbugs-idea" border="0"/>
