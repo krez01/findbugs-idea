@@ -43,16 +43,16 @@
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/codesearch/gcSearch.xml" up_projectName="findbugs-idea" border="0" width="400"/>
 
 == Downloads ==
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml" up_projectName="findbugs-idea" border="0"/>
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml" up_projectName="findbugs-idea" border="0" width="400"/>
 
 == Project Info ==
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/info/gcInfo.xml" up_projectName="findbugs-idea" border="0"/>
 
 == Issue Tracker ==
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issuetracker/gcIssueTracker.xml" up_projectName="findbugs-idea" border="0"/>
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issuetracker/gcIssueTracker.xml" up_projectName="findbugs-idea" border="0" width="500"/>
 
 == Issue Updates ==
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml" up_projectName="findbugs-idea" border="0"/>
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml" up_projectName="findbugs-idea" border="0" width="500"/>
 
 == Wiki ==
 <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/wiki/gcWiki.xml" up_projectName="findbugs-idea" border="0"/>
