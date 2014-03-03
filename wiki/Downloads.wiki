@@ -1,9 +1,8 @@
-#labels Featured
 #Downloads
 
 = Downloads =
 
-Add your content here.
+Add your content here. -> public drive link
 
 
 = Downloads =
